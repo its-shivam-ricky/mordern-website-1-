@@ -12,12 +12,16 @@ A modern frontend web application built with HTML, CSS, and JavaScript.
 ---
 
 ## 📂 Project Structure
-project-folder/
+
+```bash
+  project-folder/
 │
 ├── index.html # Main HTML file
 ├── style.css # Styles
 ├── script.js # JavaScript logic
 └── assets/ # Images, icons, fonts
+```
+
 
 
 ---
